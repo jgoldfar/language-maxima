@@ -1,0 +1,20 @@
+{
+  "name": "language-maxima",
+  "version": "0.1.0",
+  "description": "Maxima language support in Atom",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://github.com/jgoldfar/language-maxima",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgoldfar/language-maxima.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgoldfar/language-maxima/issues"
+  }
+}
